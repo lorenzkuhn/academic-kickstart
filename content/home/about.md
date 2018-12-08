@@ -37,4 +37,4 @@ weight = 5
 
 ## Biography
 
-Hi! I am currently a MSc Computer Science Student at ETH Zurich, where I focus on Machine Learning. Recently, I interned at IBM Research where I contributed to the Research and Development of a medical recommendation system based on machine learning. 
+Hi! I am currently a MSc Computer Science Student at ETH Zurich, where I focus on Machine Learning. Recently, I interned at IBM Research where I contributed to the research and development of a medical recommendation system based on machine learning. For my undergraduate thesis I developed natural language processing methods to improve the performance of a medical information retrieval system. 
