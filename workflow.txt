@@ -1,0 +1,9 @@
+in "my_website":
+$hugo
+generates all necessary files
+commit everything in my_website
+move into public/
+$ add .
+$ commit -m "message"
+$ push origin master
+pushes changes to website
