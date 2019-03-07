@@ -6,7 +6,7 @@ title = "Collaborative Filtering: Stacking Collaborative Filtering and Neural Ne
 date = 2019-03-07T11:07:00
 
 # Project summary to display on homepage.
-summary = "For this proejct we leverage matrix factorization and gradient descent approaches to build a recommender system for movies."
+summary = "For this proejct we leverage matrix factorization and neural network methods to build a recommender system for movies."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -36,7 +36,7 @@ links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitt
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
-Course project for Computational Intelligence Lab at ETH Zurich in the spring of 2018. 
+Course project for Computational Intelligence Lab at ETH Zurich in the spring of 2018 in collaboration with Ben Hahn and Kevin Klein. 
 
 ## Abstract:
 
