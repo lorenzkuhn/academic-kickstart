@@ -13,7 +13,7 @@ title = "Lorenz Kuhn"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2019"
+copyright = "&copy; 2020"
 
 theme = "academic"
 enableEmoji = true
@@ -306,13 +306,13 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 4
-
-[[menu.main]]
   name = "Projects"
   url = "#projects"
+  weight = 3
+
+[[menu.main]]
+  name = "Experience"
+  url = "#experience"
   weight = 3
 
 

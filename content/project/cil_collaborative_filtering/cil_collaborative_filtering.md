@@ -6,7 +6,7 @@ title = "Collaborative Filtering: Stacking Collaborative Filtering and Neural Ne
 date = 2019-03-07T11:07:00
 
 # Project summary to display on homepage.
-summary = "For this proejct we leverage matrix factorization and neural network methods to build a recommender system for movies."
+summary = "For this project we leverage matrix factorization and neural network methods to build a recommender system for movies."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -24,7 +24,7 @@ url_code = "https://sea-region.github.com/kkleindev/CILRecommender2018/tree/mast
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+#links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
